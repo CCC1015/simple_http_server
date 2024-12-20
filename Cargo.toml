@@ -6,4 +6,3 @@ edition = "2021"
 [dependencies]
 hyper = { version = "0.14", features = ["server"] }
 tokio = { version = "1", features = ["full"] }
-
